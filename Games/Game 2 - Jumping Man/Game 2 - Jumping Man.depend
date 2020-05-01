@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476827340 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\game 2 - jumping man\main.cpp
+	<graphics.h>
+	<windows.h>
+
+1476891338 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\games\game 2 - jumping man\main.cpp
+	<graphics.h>
+	<windows.h>
+	<ctime>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464448262 source:c:\users\allan\desktop\comps\my c++ programs\program 15 - computes the real roots of a quadratic equation\main.cpp
+	<iostream>
+	<math.h>
+

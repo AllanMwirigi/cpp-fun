@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1469602270 source:c:\users\allan\desktop\comps\my c++ programs\program 39 - program that closes all programs, shutsdown or restarts\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1473800785 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 39 - program that closes all programs, shutsdown or restarts\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+

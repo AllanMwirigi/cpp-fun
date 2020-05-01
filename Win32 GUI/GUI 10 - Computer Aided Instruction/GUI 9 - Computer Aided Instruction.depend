@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477517911 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 9 - computer aided instruction\main.cpp
+	<tchar.h>
+	<windows.h>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+
+1477563108 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 10 - computer aided instruction\main.cpp
+	<tchar.h>
+	<windows.h>
+	<ctime>
+	<cstdio>
+	<cstdlib>
+

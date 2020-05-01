@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472656203 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\graphics 5 - current time digital clock\main.cpp
+	<graphics.h>
+	<time.h>
+	<stdio.h>
+

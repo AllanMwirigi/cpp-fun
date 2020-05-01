@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477585100 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 0 - practice and experimentation\main.cpp
+	<tchar.h>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476990705 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 6 - alerting the user(errors)  via a pop up message\main.cpp
+	<tchar.h>
+	<windows.h>
+

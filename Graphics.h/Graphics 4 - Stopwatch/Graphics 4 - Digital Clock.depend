@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472630974 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\graphics 4 - digital clock\main.cpp
+	<graphics.h>
+	<stdio.h>
+
+1474559545 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\graphics 4 - stopwatch\main.cpp
+	<graphics.h>
+	<stdio.h>
+

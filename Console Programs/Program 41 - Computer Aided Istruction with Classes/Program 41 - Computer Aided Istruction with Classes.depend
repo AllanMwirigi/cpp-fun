@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472288062 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 41 - computer aided istruction with classes\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

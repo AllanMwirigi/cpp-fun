@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472830652 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\graphics 8 - moving car with l,r arrow keys\main.cpp
+	<graphics.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477402521 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 9 - digital clock\main.cpp
+	<tchar.h>
+	<windows.h>
+	<ctime>
+	<cstdio>
+

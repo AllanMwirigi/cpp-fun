@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468418625 source:c:\users\allan\desktop\comps\my c++ programs\program 36 - parking charges (with function)\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549435965 source:e:\projects\c++ programs\console programs\calculator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+

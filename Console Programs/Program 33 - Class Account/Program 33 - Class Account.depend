@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1467955133 source:c:\users\allan\desktop\comps\my c++ programs\program 33 - class account\account.cpp
+	<iostream>
+	"Account.h"
+
+1467955133 c:\users\allan\desktop\comps\my c++ programs\program 33 - class account\account.h
+
+1467903713 source:c:\users\allan\desktop\comps\my c++ programs\program 33 - class account\main.cpp
+	<iostream>
+	"Account.h"
+
+1467962334 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 33 - class account\account.cpp
+	<iostream>
+	"Account.h"
+
+1467962334 c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 33 - class account\account.h
+
+1468330428 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 33 - class account\main.cpp
+	<iostream>
+	"Account.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478334236 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 7 - simple calculator\main.cpp
+	<tchar.h>
+	<windows.h>
+	<string>
+

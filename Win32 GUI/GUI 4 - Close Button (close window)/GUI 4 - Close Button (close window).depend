@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476982665 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\gui 4 - close button (close window)\main.cpp
+	<tchar.h>
+	<windows.h>
+

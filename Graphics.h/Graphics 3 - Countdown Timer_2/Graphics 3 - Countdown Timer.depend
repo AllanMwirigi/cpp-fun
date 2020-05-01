@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472589758 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\graphics 3 - countdown timer\main.cpp
+	<graphics.h>
+	<iostream>
+	<stdio.h>
+

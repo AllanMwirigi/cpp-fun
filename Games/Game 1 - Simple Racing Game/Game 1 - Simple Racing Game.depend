@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474559012 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\game 1 - simple racing game\main.cpp
+	<graphics.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+

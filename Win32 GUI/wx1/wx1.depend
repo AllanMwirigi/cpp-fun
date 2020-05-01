@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385316876 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\win32 gui\wx1\resource.rc
+	"wx/msw/wx.rc"
+
+1456695216 c:\wxwidgets-3.1.0\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/rcdefs.h"
+
+1456695216 c:\wxwidgets-3.1.0\include\wx\msw\rcdefs.h
+

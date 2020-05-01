@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467967460 source:c:\users\allan\desktop\comps\my c++ programs\program 34 - class invoice\invoice.cpp
+	"Invoice.h"
+
+1467967538 c:\users\allan\desktop\comps\my c++ programs\program 34 - class invoice\invoice.h
+	<string>
+
+1467969220 source:c:\users\allan\desktop\comps\my c++ programs\program 34 - class invoice\main.cpp
+	<iostream>
+	"Invoice.h"
+

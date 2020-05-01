@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1468746262 source:c:\users\allan\desktop\comps\my c++ programs\experiment programs\main.cpp
+	<iostream>
+	<string>
+
+1476892158 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\experiment programs\main.cpp
+	<graphics.h>
+	<windows.h>
+

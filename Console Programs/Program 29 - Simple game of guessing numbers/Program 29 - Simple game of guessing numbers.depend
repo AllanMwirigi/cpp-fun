@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1468753821 source:c:\users\allan\desktop\comps\my c++ programs\program 29 - simple game of guessing numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1472075522 source:c:\users\lewis mwirigi\desktop\comps\my c++ programs\program 29 - simple game of guessing numbers\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
